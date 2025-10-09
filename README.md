@@ -45,13 +45,13 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2026.git
 <br>
 <h4>７、新規プロジェクトを選択して、完了</h4>
 
-![環境構築_3](https://github.com/user-attachments/assets/c6e21359-6528-4535-be68-1d1b8acb64bb)
+<img width="1074" height="619" alt="image" src="https://github.com/user-attachments/assets/56e58cee-cc86-472a-ba01-0316fb4091b2" />
 
 
 <br>
 <h4>８、JAVAプロジェクトを選択して、次へ</h4>
 
-![image](https://github.com/eb-xiexinyue/Java_Induction_2024/blob/sya_shinetsu/img/9.png)
+<img width="1074" height="619" alt="image" src="https://github.com/user-attachments/assets/7146ca07-a819-439e-9670-342056d7bf09" />
 
 <br>
 
@@ -59,7 +59,7 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2026.git
 
 ※module-info.javaファイル作成にチェックを外す
 
-![環境構築_4](https://github.com/user-attachments/assets/45cdf38a-616c-48bb-83b8-4ba29f214c4d)
+<img width="912" height="971" alt="image" src="https://github.com/user-attachments/assets/7a92462f-92fe-4966-8e51-92a7bfe2e3d5" />
 
 
 <br>
