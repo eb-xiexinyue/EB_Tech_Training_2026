@@ -3,12 +3,12 @@
 ### import project from github
 <h4>１、Eclipse 「プロジェクトのインポート」機能を選択する</h4>
 
-![image](https://github.com/eb-xiexinyue/Java_Induction_2024/blob/sya_shinetsu/img/1.png)
+<img width="473" height="576" alt="image" src="https://github.com/user-attachments/assets/60bf0526-fb16-4a90-ab37-ee8d9d75ab6a" />
 
 <br>
 <h4>２、Gitからプロジェクトを選択して、次へ</h4>
 
-![image](https://github.com/eb-xiexinyue/Java_Induction_2024/blob/sya_shinetsu/img/2.png)
+<img width="604" height="544" alt="image" src="https://github.com/user-attachments/assets/06f93614-d513-4476-a411-62c8b5858efb" />
 
 <br>
 <h4>３、クローンURIを選択して、次へ</h4>
