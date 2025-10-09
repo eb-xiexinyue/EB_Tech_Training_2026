@@ -56,25 +56,18 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2026.git
 <br>
 <h4>９、項目「実行環境JREの使用」の設定値は「JavaSE-1.8」を選択する</h4>
 
-<img width="912" height="971" alt="image" src="https://github.com/user-attachments/assets/cacadfff-7d3e-4225-a3d3-6438b2848f36" />
-
-<br>
-
-<h4>９、プロジェクト名称に「EB_Tech_Training_2026」を設定して、次へ</h4>
-
-※module-info.javaファイル作成にチェックを外す
-
 <img width="912" height="971" alt="image" src="https://github.com/user-attachments/assets/7a92462f-92fe-4966-8e51-92a7bfe2e3d5" />
 
-
 <br>
-<h4>１０、完了ボタンを押下で、プロジェクト作成完了　</h4>
 
-![image](https://github.com/eb-xiexinyue/Java_Induction_2024/blob/sya_shinetsu/img/13.png)
+<h4>１０、プロジェクト名称に「EB_Tech_Training_2026」を設定して、次へ</h4>
+
+<img width="912" height="971" alt="image" src="https://github.com/user-attachments/assets/cacadfff-7d3e-4225-a3d3-6438b2848f36" />
 
 <br>
 <h4>１１、プロジェクト作成完了後はEclipseの右側「パッケージ・エクスプローラー」タブまたは「プロジェクト・エクスプローラー」タブからプロジェクト「EB_Tech_Training_2026」を確認出来る　</h4>
 
-![環境構築_5](https://github.com/user-attachments/assets/7b5e9602-6436-4594-aae6-c23dcb395b02)
+<img width="476" height="623" alt="image" src="https://github.com/user-attachments/assets/e0ec1f83-59b1-488d-b2aa-e99e97457ca7" />
+
 
 
