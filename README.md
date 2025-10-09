@@ -13,7 +13,7 @@
 <br>
 <h4>３、クローンURIを選択して、次へ</h4>
 
-![image](https://github.com/eb-xiexinyue/Java_Induction_2024/blob/sya_shinetsu/img/3.png)
+<img width="678" height="600" alt="image" src="https://github.com/user-attachments/assets/5e05e317-0ff5-4ace-9aac-cd383597a59f" />
 
 <br>
 <h4>４、下記の通りに、各項目を入力して、次へ</h4>
@@ -24,13 +24,12 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2026.git
 
 パスワード　：　<b>作成したtoken　#3</b>
 
-![環境構築_1](https://github.com/user-attachments/assets/51b0dd60-e58a-4153-a216-73ac195458c0)
-
+<img width="703" height="619" alt="image" src="https://github.com/user-attachments/assets/d638e991-f1e7-41a8-bf6b-20c09b55387c" />
 
 <br>
 <h4>５、<b>自分が作ったのブランチ</b>を選択して、次へ</h4>
 
-![image](https://github.com/eb-xiexinyue/Java_Induction_2024/blob/sya_shinetsu/img/6.png)
+<img width="1074" height="619" alt="image" src="https://github.com/user-attachments/assets/14d268fd-6bff-489a-9d9e-b0e8216a38a2" />
 
 <br>
 <h4>６、参照ボタンを押下し、ディレクトリにEclipseのワークスペースを指定して、次へを押下する</h4>
@@ -40,7 +39,7 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2026.git
   
   　ワークスペース　＋　プロジェクト名称(EB_Tech_Training_2026)
 
-![環境構築_2](https://github.com/user-attachments/assets/38de83a3-ef0b-4ca2-b464-6b03c6a6b7c9)
+<img width="1074" height="619" alt="image" src="https://github.com/user-attachments/assets/ebb9a971-3f6b-4ef9-a256-bbe094bb8cdd" />
 
 
 <br>
