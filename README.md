@@ -54,6 +54,11 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2026.git
 <img width="1074" height="619" alt="image" src="https://github.com/user-attachments/assets/7146ca07-a819-439e-9670-342056d7bf09" />
 
 <br>
+<h4>９、項目「実行環境JREの使用」の設定値は「JavaSE-1.8」を選択する</h4>
+
+<img width="912" height="971" alt="image" src="https://github.com/user-attachments/assets/cacadfff-7d3e-4225-a3d3-6438b2848f36" />
+
+<br>
 
 <h4>９、プロジェクト名称に「EB_Tech_Training_2026」を設定して、次へ</h4>
 
