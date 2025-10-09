@@ -18,7 +18,7 @@
 <br>
 <h4>４、下記の通りに、各項目を入力して、次へ</h4>
 
-URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2025.git
+URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2026.git
 
 ユーザー　：　<b>自分のGITHUBのユーザーID</b>
 
@@ -38,7 +38,7 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2025.git
 
 　　必ず下記の画像通りのパスに設定してください！
   
-  　ワークスペース　＋　プロジェクト名称(EB_Tech_Training_2025)
+  　ワークスペース　＋　プロジェクト名称(EB_Tech_Training_2026)
 
 ![環境構築_2](https://github.com/user-attachments/assets/38de83a3-ef0b-4ca2-b464-6b03c6a6b7c9)
 
@@ -56,7 +56,7 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2025.git
 
 <br>
 
-<h4>９、プロジェクト名称に「EB_Tech_Training_2025」を設定して、次へ</h4>
+<h4>９、プロジェクト名称に「EB_Tech_Training_2026」を設定して、次へ</h4>
 
 ※module-info.javaファイル作成にチェックを外す
 
@@ -69,7 +69,7 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2025.git
 ![image](https://github.com/eb-xiexinyue/Java_Induction_2024/blob/sya_shinetsu/img/13.png)
 
 <br>
-<h4>１１、プロジェクト作成完了後はEclipseの右側「パッケージ・エクスプローラー」タブまたは「プロジェクト・エクスプローラー」タブからプロジェクト「EB_Tech_Training_2025」を確認出来る　</h4>
+<h4>１１、プロジェクト作成完了後はEclipseの右側「パッケージ・エクスプローラー」タブまたは「プロジェクト・エクスプローラー」タブからプロジェクト「EB_Tech_Training_2026」を確認出来る　</h4>
 
 ![環境構築_5](https://github.com/user-attachments/assets/7b5e9602-6436-4594-aae6-c23dcb395b02)
 
