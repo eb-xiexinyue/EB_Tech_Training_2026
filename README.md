@@ -33,7 +33,7 @@ URI　：　https://github.com/eb-xiexinyue/EB_Tech_Training_2026.git
 
 <br>
 <h4>６、参照ボタンを押下し、ディレクトリにEclipseのワークスペースを指定して、次へを押下する</h4>
-※　デフォルトのディレクトリーは「C:\Users\ユーザー名\git\EB_Tech_Training_2025」に設定されていた可能性がありますので、
+※　デフォルトのディレクトリーは「C:\Users\ユーザー名\git\EB_Tech_Training_2026」に設定されていた可能性がありますので、
 
 　　必ず下記の画像通りのパスに設定してください！
   
