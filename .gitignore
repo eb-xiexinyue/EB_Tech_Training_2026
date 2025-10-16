@@ -1,3 +1,11 @@
-/.classpath
-/.project
-/bin
+# macOS system files
+.DS_Store
+# Eclipse
+.settings/
+.project
+.classpath
+# Local launch configurations
+*.launch
+# Build output
+bin/
+tmp/
