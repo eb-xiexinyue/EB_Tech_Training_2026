@@ -5,7 +5,7 @@ public class JavaHomework06 {
     // 質問1
     // public static void main(String[] args);
     // 修飾子：public static
-    // 返却型：void
+    // 返却型： void
     // 関数名：main
     // 引数の型：String[]
     // 引数の名称：args
