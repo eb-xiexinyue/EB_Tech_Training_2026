@@ -144,7 +144,7 @@ public class JavaHomework06 {
         int[] unsorted = {4, 2, 7, 1, 3};
         int[] sorted = bubbleSort(unsorted);
         printArray(new Integer[]{1,2,3,4,7});
-
+        
         System.out.println("\n質問9:");
         int[] result = bubbleSort(mergeArray(left, right)); // ← 1行で呼び出し
         printArray(new Integer[]{1,2,3,4,5,6,7,8});
