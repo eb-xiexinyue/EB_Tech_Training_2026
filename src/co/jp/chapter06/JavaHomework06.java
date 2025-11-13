@@ -8,7 +8,7 @@ public class JavaHomework06 {
     // 返却型：void
     // 関数名：main
     // 引数の型：String[]
-    // 引数の名称：args 
+    // 引数の名称：args  
 
 
     // 質問2：配列の和、最大、最小を求める関数
