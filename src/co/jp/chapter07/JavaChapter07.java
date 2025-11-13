@@ -21,6 +21,23 @@ public class JavaChapter07 {
 //		h.callMyName();
 		
 //		Human h2 = h.createHuman();
+		
+		Pet cat = new Pet("cat");
+		Pet dog = new Pet("dog", 5);
+		
+		cat.setName("cat");
+		cat.setAge(2);
+		
+		dog.setName("dog");
+		dog.setAge(5);
+		
+		Pet.run();
+		System.out.println(Pet.startAge);
+//		Pet.startAge = 10;
+		System.out.println(Pet.startAge);
+		
+		Pet bird = new Pet("bird");
+		System.out.println(bird.startAge);
 	}
 
 }

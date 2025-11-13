@@ -1,5 +1,7 @@
 package co.jp.chapter04;
 
+import java.util.Arrays;
+
 public class JavaChapter04 {
 
 	public static void main(String[] args) {
@@ -17,7 +19,7 @@ public class JavaChapter04 {
 		String[] sArr = new String[5];
 		Object[] oArr = new Object[5];
 		
-//		System.out.println(Arrays.toString(bArr));
+		System.out.println(Arrays.toString(bArr));
 //		System.out.println(Arrays.toString(fArr));
 //		System.out.println(Arrays.toString(cArr));
 //		System.out.println(Arrays.toString(sArr));
