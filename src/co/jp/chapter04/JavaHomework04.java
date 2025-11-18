@@ -13,8 +13,8 @@ public class JavaHomework04 {
 		
 		//問題３:int[][] array = new int[2][3]; 各要素の値を記載してください。
 		//答え： 2行3列の2次元配列、すべて初期値は0
-		//       [0, 0, 0]
-		//       [0, 0, 0]
+		//    array[0][0]  0    array[0][1]  0   array[0][2]  0
+		//    array[1][0]  0    array[1][1]  0   array[1][2]  0
 
 		//問題4：以下２重Foreachを理解してください。
 		int[][]array2d = new int [4][2];
