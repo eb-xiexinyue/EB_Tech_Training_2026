@@ -1,26 +1,151 @@
-<!DOCTYPE html>
 <html>
-	<head>
-    	<meta charset="UTF-8">
-    	<title>自己紹介ページ</title>
-	</head>
-	<body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>自己紹介ページ</title>
 
-    <h1>名前：魏　立博</h1>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+      line-height: 1.8;
+      transition: background-color 0.3s, color 0.3s;
+    }
 
-    <h2>趣味</h2>
-    <ul>
-        <li>スノーボード</li>
-        <li>旅行</li>
-        <li>映画</li>
-    </ul>
+    .theme-purple {
+      background-color: #6b4eff;
+      color: #f5f3ff;
+    }
 
-    <h2>プロフィール</h2>
-    <p>
-        <a href="https://github.com/eb-xiexinyue/EB_Tech_Training_2026/tree/WEILIBO" target="_blank">
-			GitHubプロフィールはこちら
+    .theme-dark {
+      background-color: #0f172a;
+      color: #e5e7eb;
+    }
+
+    .theme-green {
+      background-color: #065f46;
+      color: #ecfdf5;
+    }
+
+    .theme-brown {
+      background-color: #7c2d12;
+      color: #fff7ed;
+    }
+
+    body a {
+      color: inherit;
+    }
+
+    .wrapper {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 24px;
+    }
+
+    .card {
+      width: min(720px, 100%);
+      background: rgba(255, 255, 255, 0.12);
+      padding: 28px;
+      border-radius: 16px;
+    }
+
+    h1 {
+      margin: 0 0 6px 0;
+      font-size: 34px;
+      font-weight: 700;
+      text-align: center;
+    }
+
+    h2 {
+      margin: 22px 0 10px 0;
+      font-size: 20px;
+      font-weight: 600;
+    }
+
+    .hobby-list {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
+
+    .hobby-item {
+      padding: 10px 14px;
+      background: rgba(255, 255, 255, 0.16);
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .link-btn {
+      display: inline-block;
+      padding: 10px 14px;
+      background: rgba(255, 255, 255, 0.16);
+      border-radius: 12px;
+      font-weight: 700;
+      text-decoration: underline;
+    }
+
+    .theme-btn {
+      margin-top: 24px;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+
+  <script>
+    const themes = [
+      "theme-purple",
+      "theme-dark",
+      "theme-green",
+      "theme-brown"
+    ];
+
+    let index = 0;
+
+    document.addEventListener("DOMContentLoaded", () => {
+      const button = document.getElementById("themeButton");
+
+      document.body.classList.add(themes[0]);
+
+      button.addEventListener("click", () => {
+        document.body.classList.remove(themes[index]);
+        index = (index + 1) % themes.length;
+        document.body.classList.add(themes[index]);
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="card">
+      <h1>魏　立博</h1>
+
+      <h2>趣味</h2>
+      <ul class="hobby-list">
+        <li class="hobby-item">スノーボード</li>
+        <li class="hobby-item">旅行</li>
+        <li class="hobby-item">映画</li>
+      </ul>
+
+      <h2>プロフィール</h2>
+      <p>
+        <a class="link-btn"
+           href="https://github.com/eb-xiexinyue/EB_Tech_Training_2026/tree/WEILIBO"
+           target="_blank" rel="noopener">
+          GitHubプロフィールはこちら
         </a>
-    </p>
+      </p>
 
+      <button id="themeButton" class="theme-btn">
+        テーマを切り替える
+      </button>
+    </div>
+  </div>
 </body>
 </html>
